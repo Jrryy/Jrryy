@@ -8,9 +8,6 @@ I've been working on software engineering since 2018, mainly using python. Curre
 #### I also know/like to work with
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-
-![My stats](https://github-readme-stats.vercel.app/api?username=Jrryy&show_icons=true&theme=gotham)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jrryy&layout=compact&langs_count=8&exclude_repo=miniomp)
 
 <a href="https://stackoverflow.com/users/3625477/shinra-tensei"><img src="https://stackoverflow.com/users/flair/3625477.png?theme=dark" width="208" height="58" alt="profile for Shinra tensei at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shinra tensei at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
